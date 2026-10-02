@@ -40,6 +40,11 @@ def load_overal_analysis():
         fig7, ax7= plt.subplots()
         ax7.plot(tem_df["x-axis"],tem_df["startup"])
         st.pyplot(fig7)
+
+    st.header("Courses Offered")
+    st.subheader("Data Science")
+    st.subheader('Data Analysis')
+    st.subheader("Data Engineering")
    
 
 
