@@ -50,7 +50,8 @@ def load_overal_analysis():
     st.subheader("This is commited in master 1st")
     st.subheader("This is commited in master 2nd")
     
-   
+    st.subheader("This is the 1st commit in sidebar")
+    st.subheader("This is the 2nd commit in sidebar")
 
 
 def load_investor_details(investor):
