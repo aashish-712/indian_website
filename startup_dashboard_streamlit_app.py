@@ -52,6 +52,8 @@ def load_overal_analysis():
     
     st.subheader("This is the 1st commit in sidebar")
     st.subheader("This is the 2nd commit in sidebar")
+    st.subheader("This is the  i love you commit in sidebar")
+   
 
 
 def load_investor_details(investor):
